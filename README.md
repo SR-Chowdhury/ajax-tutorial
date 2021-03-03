@@ -1,6 +1,6 @@
 # Ajax Tutorial
 
-**Using this webpack-boilerplate do the following task**
+**Using this webpack-boiler-palte do the following task**
 
 _run:_
 
